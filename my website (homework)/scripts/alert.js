@@ -1,0 +1,1 @@
+alert("Ciao, questo è un sito sulle basi dell'intelligenza artificiale. Benvenuto!");
